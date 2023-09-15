@@ -1,0 +1,14 @@
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\bin\Debug\net7.0\seminar6hometask43.exe
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\bin\Debug\net7.0\seminar6hometask43.deps.json
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\bin\Debug\net7.0\seminar6hometask43.runtimeconfig.json
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\bin\Debug\net7.0\seminar6hometask43.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\bin\Debug\net7.0\seminar6hometask43.pdb
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.AssemblyInfo.cs
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\refint\seminar6hometask43.dll
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.pdb
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\seminar6hometask43.genruntimeconfig.cache
+C:\Users\Anna\Desktop\Обучение\языки программирования\C#\seminar6hometask43\obj\Debug\net7.0\ref\seminar6hometask43.dll

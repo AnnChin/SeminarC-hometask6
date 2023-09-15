@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "seminar6hometask41/1.0.0": {
+        "runtime": {
+          "seminar6hometask41.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar6hometask41/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
